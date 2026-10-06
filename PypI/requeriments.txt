@@ -1,0 +1,8 @@
+colorama ♦
+gTTS ♦
+art ♦
+pgzero -> pygame ♦
+easygui ♦
+customtkinter ♦
+flet ♦
+gradio ♦ 
